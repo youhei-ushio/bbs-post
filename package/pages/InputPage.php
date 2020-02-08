@@ -4,6 +4,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../Authenticator.php';
 require_once __DIR__ . '/LoginPage.php';
 
+// 投稿画面
 final class InputPage
 {
     public function show()

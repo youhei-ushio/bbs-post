@@ -3,6 +3,7 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/LoginPage.php';
 
+// ログイン画面
 final class LoginPage
 {
     public function show()

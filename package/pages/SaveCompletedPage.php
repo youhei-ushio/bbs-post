@@ -4,6 +4,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../Authenticator.php';
 require_once __DIR__ . '/LoginPage.php';
 
+// 投稿完了画面
 final class SaveCompletedPage
 {
     public function show()
