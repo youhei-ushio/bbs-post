@@ -1,0 +1,8 @@
+.idea/
+*.iml
+
+/vendor/
+
+.account
+.slack
+/users.txt
